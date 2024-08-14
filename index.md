@@ -7,5 +7,7 @@ Det her er master versionen
 
 it's a beautiful rainy day!
 
+det er da lidt trist.
+
 Theodor Boas
 Marthe Sofie
