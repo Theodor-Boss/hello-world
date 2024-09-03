@@ -17,3 +17,6 @@ hefj
 fe
  
   wegg
+
+det skal ikke gentage sig
+sensei wug
